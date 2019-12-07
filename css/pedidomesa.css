@@ -1,0 +1,9 @@
+.top{
+overflow-y: scroll;
+max-height: 300px;
+min-height: 300px;
+}
+.tablamesas{
+    margin-left: auto;
+    margin-right: auto;
+}

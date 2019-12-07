@@ -1,0 +1,25 @@
+.top{
+    float:left;
+    width: 100%;
+    height: 20%;
+    min-height: 100px;
+    background-color:blue;
+    }
+.medium{
+    float:left;
+    width: 100%;
+    height: 60%;
+    max-height: 500px;
+    background-color:red;
+    overflow: scroll;
+    }
+footer{
+    float:left;
+    width: 100%;
+    height: 20%;
+    min-height: 150px;
+    background-color:green;
+    }
+#logout{
+    float: right;
+}

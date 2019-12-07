@@ -1,0 +1,27 @@
+.mitabla{
+    width: 100%;
+}
+th{
+    text-align: center;
+}
+/* botones centrados y con el máximo tamaño para los items */
+#itemscomidas button{
+    display: block;
+    width: 100%;
+    margin: 1% 0;
+}
+#itemsbebidas button{
+    display: block;
+    width: 100%;
+    margin: 1% 0;
+}
+#itemspostre button{
+    display: block;
+    width: 100%;
+    margin: 1% 0;
+}
+#itemscafe button{
+    display: block;
+    width: 100%;
+    margin: 1% 0;
+}
